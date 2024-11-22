@@ -1,0 +1,57 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Which of the following is NOT a factor of 120?",
+    "options": [
+      "10",
+      "12",
+      "15",
+      "25"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which of the following represents the prime factorization of 360, written using exponents?",
+    "options": [
+      "2<sup>3</sup> × 3<sup>2</sup> × 5",
+      "2<sup>2</sup> × 3<sup>3</sup> × 5",
+      "2<sup>4</sup> × 3 × 5",
+      "2<sup>3</sup> × 3 × 7"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q3",
+    "question": "The HCF of 36 and 54 is:",
+    "options": [
+      "6",
+      "9",
+      "18",
+      "36"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of the following pairs has the same HCF as 18 and 24?",
+    "options": [
+      "21 and 30",
+      "9 and 36",
+      "15 and 25",
+      "30 and 72"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "A teacher has 24 red crayons, 36 blue crayons, and 60 yellow crayons. She wants to divide them into the largest possible number of identical boxes, with each box containing the same number of each color crayon. How many boxes can she make?",
+    "options": [
+      "4",
+      "6",
+      "12",
+      "24"
+    ],
+    "correct": 2
+  }
+]
